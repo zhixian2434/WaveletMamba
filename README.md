@@ -1,3 +1,3 @@
 # DED-Net
 
-Coming Soon........................
+Code preparation in progress!!!
