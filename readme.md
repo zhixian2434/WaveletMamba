@@ -24,8 +24,8 @@ You can refer to the following links to download the dataset,
 
 Our PSNR/SSIM/LPIPS/NIQE on different test sets:
 
-<img src="./figures/tab1.png" alt="tab1"/> 
-<img src="./figures/tab2.png" alt="tab2"/> 
+<img src="./figures/Table1.png" alt="tab1"/> 
+<img src="./figures/Table2.png" alt="tab2"/> 
 
 ### Training
 
