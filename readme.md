@@ -2,6 +2,8 @@
 
 The implementation of "WaveletMamba: Wavelet-based Mamba for Low-light Image Enhancement with Nighttime Non-uniform Illumination Traffic Driving Dataset"
 
+<img src="./figures/fig1.png" alt="fig1"/> 
+
 ## Prerequisites
 ```
 pip install -r requirements.txt
